@@ -162,8 +162,8 @@ https://github.com/nod-ai/iree-amd-aie
 To get this test repo:
 
 ```bash
-git clone https://github.com/nod-ai/SHARK-TestSuite.git
-cd SHARK-TestSuite/e2eshark
+git clone git@github.com:idoOwhd/e2e_importer.git
+cd e2e_importer
 
 ```
 Set up python environment, you can use venv or conda.
