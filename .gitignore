@@ -1,0 +1,13 @@
+MHAs_models.tar.gz
+__pycache__/
+_run_helper.py
+pytorch/models/c3d/
+pytorch/models/cap/
+pytorch/models/gpt-2/
+pytorch/models/llama/
+pytorch/models/scn/
+pytorch/models/t5/
+pytorch/models/gpt-2/
+pytorch/models/deepseek/
+pytorch/torch-mlir-fx-status.txt
+pytorch/turbine-status.txt
