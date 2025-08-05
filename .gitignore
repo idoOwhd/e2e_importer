@@ -1,6 +1,8 @@
 MHAs_models.tar.gz
 __pycache__/
-_run_helper.py
+Convs
+MHAs
+Models
 pytorch/models/c3d/
 pytorch/models/cap/
 pytorch/models/gpt-2/
