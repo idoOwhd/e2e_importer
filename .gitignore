@@ -1,5 +1,6 @@
 MHAs_models.tar.gz
 __pycache__/
+upload*
 Convs
 MHAs
 Models
@@ -9,7 +10,9 @@ pytorch/models/gpt-2/
 pytorch/models/llama/
 pytorch/models/scn/
 pytorch/models/t5/
+pytorch/models/opt/
 pytorch/models/gpt-2/
 pytorch/models/deepseek/
 pytorch/torch-mlir-fx-status.txt
 pytorch/turbine-status.txt
+cachedir/
