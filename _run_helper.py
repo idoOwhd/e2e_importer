@@ -7,7 +7,6 @@ import struct
 import torch
 import io
 
-
 def concatenateFiles(inpfile1, inpfile2, outfile):
     f1 = open(inpfile1, "r")
     f2 = open(inpfile2, "r")
